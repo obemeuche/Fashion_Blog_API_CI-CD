@@ -89,6 +89,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>fashion-blog-docker-images</finalName>
 	</build>
 
 </project>
